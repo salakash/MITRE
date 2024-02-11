@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: orange; /* Set background color to orange */
+  color: blue; /* Set text color to blue */
+}
+
+#game-container {
+  margin-top: 50px;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#technique {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+#tactic-input {
+  margin-bottom: 10px;
+}
+
+#result {
+  margin-top: 20px;
+  font-weight: bold;
+}
